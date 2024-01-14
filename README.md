@@ -25,7 +25,7 @@ I have used **UCF50 – Action Recognition Dataset**, Provided by **University o
 More about Dataset: https://www.crcv.ucf.edu/data/UCF50.php<br>
 Direct Download: https://www.crcv.ucf.edu/data/UCF50.rar
 
-References: 
+References:<br> 
 <a href="https://arxiv.org/abs/1411.4389?source=post_page---------------------------">Long-term Recurrent Convolutional Networks for Visual Recognition and Description</a><br>
 https://www.quora.com/What-is-the-difference-between-ConvLSTM-and-CNN-LSTM<br>
 <a href="https://bleedaiacademy.com/human-activity-recognition-using-tensorflow-cnn-lstm/">ConvLSTM and LRCN</a>
