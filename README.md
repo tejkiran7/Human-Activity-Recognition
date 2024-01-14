@@ -1,4 +1,4 @@
-**Human Activity Recognition using ConvLSTM and CNN-LSTM**
+**Human Activity Recognition using ConvLSTM and LRCN**
 
 **Dataset:** Provided by University of Central Florida
 
